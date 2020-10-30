@@ -1,0 +1,17 @@
+D:\Downloads\Xero\RefactorThis\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Downloads\Xero\RefactorThis\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Downloads\Xero\RefactorThis\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Downloads\Xero\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.deps.json
+D:\Downloads\Xero\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.runtimeconfig.json
+D:\Downloads\Xero\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.runtimeconfig.dev.json
+D:\Downloads\Xero\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.dll
+D:\Downloads\Xero\RefactorThis\bin\Debug\netcoreapp2.2\RefactorThis.pdb
+D:\Downloads\Xero\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.RazorAssemblyInfo.cache
+D:\Downloads\Xero\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.RazorAssemblyInfo.cs
+D:\Downloads\Xero\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.AssemblyInfoInputs.cache
+D:\Downloads\Xero\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.AssemblyInfo.cs
+D:\Downloads\Xero\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.RazorTargetAssemblyInfo.cache
+D:\Downloads\Xero\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.dll
+D:\Downloads\Xero\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.pdb
+D:\Downloads\Xero\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.genruntimeconfig.cache
+D:\Downloads\Xero\RefactorThis\obj\Debug\netcoreapp2.2\RefactorThis.csproj.CoreCompileInputs.cache
